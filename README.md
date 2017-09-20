@@ -1,4 +1,3 @@
-# vide-plugin-prompt-vue
+# {{name}}
 
 ## introduction
-engine for vuejs
